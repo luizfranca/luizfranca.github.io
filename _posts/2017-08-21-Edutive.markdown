@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2017-08-21
+img: edutive.jpg
+alt: image-alt
+project-date: August 2017
+client: Artificial Intelligence Class
+category: Unity3d, Artificial Intelligence
+language: Typescript, Firebase, HTML, CSS
+work: Group
+description: Edutive is a plataform for teachers and professors to give quizes to their students and learn the progress and difficulties of their students. There is a mobile app for the students and a webpage for the professor. I worked on the webpage with other members of a group. The repository for this project can be found <a href="https://github.com/edutive" target="_blank">here</a>.
+
+---
