@@ -1,7 +1,7 @@
 # Site settings
 title: Luiz França
 email: francaldr@gmail.com
-url: https://luizfranca.github.io
+url: https://koudani.ca
 description: "Works as a Senior Software Developer at AlayaCare."
 keywords: "your keywords, separated by commas"
 skills: "Software Engineer - Game Developer - Software Tester"
@@ -45,10 +45,10 @@ social:
     url: https://www.linkedin.com/in/luiz-franca
   # - title: e-mail
   #   url: mailto:luizdaniel.r.f@gmail.com
-  - title: facebook
-    url: https://www.facebook.com/francaldr
-  - title: instagram
-    url: https://www.instagram.com/louisdfrance
+  # - title: facebook
+  #   url: https://www.facebook.com/francaldr
+  # - title: instagram
+  #   url: https://www.instagram.com/louisdfrance
   # - title: twitter
   #   url: https://twitter.com/luizdaniel78
   
@@ -60,7 +60,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: São Paulo, São Paulo, Brazil
+  - line: Montréal, Canada
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
