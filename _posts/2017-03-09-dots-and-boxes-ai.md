@@ -18,6 +18,6 @@ image:
 | **Languages** | Python |
 | **Collaboration** | Group |
 
-This project is an implementation of the alpha-beta pruning algorithm for the game of Dots and Boxes. The code is on [GitHub](https://github.com/luizfranca/dots-and-boxes), and there will be a [online demo](http://dotsandboxes.koudani.ca) of the AI.
+This project is an implementation of the alpha-beta pruning algorithm for the game of Dots and Boxes. The code is on [GitHub](https://github.com/luizfranca/dots-and-boxes), and there will be a [online demo](https://dotsandboxes.koudani.ca) of the AI.
 
 ![Dots and Boxes AI](/assets/img/portfolio/dotsandboxes.png){: w="500" }
