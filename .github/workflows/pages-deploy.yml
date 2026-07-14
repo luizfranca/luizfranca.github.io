@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - master
+      - switch-jekyll-theme
     paths-ignore:
       - .gitignore
       - README.md
