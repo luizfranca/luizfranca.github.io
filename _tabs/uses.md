@@ -40,7 +40,7 @@ Updated on: 2026-07-14
 - **Broswer:** Firefox
 
 ## Miscellaneous
-- **Reading:** [Kobo Libra Colour](https://ca.kobobooks.com/products/kobo-libra-colour){:target="_blank"} for regular books, sometimes physical books. For reading in Japanese like manga, light novels an [iPad Mini 6 gen](https://support.apple.com/en-us/111886){:target="_blank"} and physical books.
+- **Reading:** [Kobo Libra Colour](https://ca.kobobooks.com/products/kobo-libra-colour){:target="_blank"} for regular books, sometimes physical books. For reading things in Japanese like manga and light novels an [iPad Mini 6 gen](https://support.apple.com/en-us/111886){:target="_blank"} and physical books.
 - **Personal Organisation:** Apple's [Calendar app](https://apps.apple.com/us/app/calendar/id1108185179){:target="_blank"}, [Mail App](https://apps.apple.com/us/app/mail/id1108187098){:target="_blank"}. For todo lists I use [TickTick](https://www.ticktick.com){:target="_blank"}.
 - **Some Interesting Apps:**
   - [Macrofactor](https://macrofactor.com/){:target="_blank"}: For calories and macro tracks.
