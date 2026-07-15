@@ -25,7 +25,7 @@ Updated on: 2026-07-14
 
 - **Gaming Computer:** AMD Ryzen 7 5700X3D 8-Core Processor, 32GB DDR4 RAM, NVidia GeForce RTX 4070 SUPER (12GB), 1TB SSD. It was the first PC I ever built.
 - **Mouse:** [Logitech M650 L](https://www.logitech.com/en-ca/shop/p/m650-signature-wireless-mouse){:target="_blank"}. I like it because the buttons are so smooth and quiet.
-- **Rest:** The other periferals are the same I use with my mac minus the dock.
+- **Rest:** The other peripherals are the same I use with my mac minus the dock.
 
 ## Software
 ### Main
@@ -33,11 +33,11 @@ Updated on: 2026-07-14
 - **Terminal:** iTerm 2.
 - **Shell:** Zsh with Oh My Zsh and Powerlevel10k.
 - **Editor:** VS Code.
-- **Broswer:** Firefox
+- **Browser:** Firefox
 
 ### Gaming PC
 - **OS:** Windows 10 Pro (22H2). I refuse to upgrade to 11 or higher with the keylogger that is Recall and AI slop all over it. I only use Windows at all because of game compatibility.
-- **Broswer:** Firefox
+- **Browser:** Firefox
 
 ## Miscellaneous
 - **Reading:** [Kobo Libra Colour](https://ca.kobobooks.com/products/kobo-libra-colour){:target="_blank"} for regular books, sometimes physical books. For reading things in Japanese like manga and light novels an [iPad Mini 6 gen](https://support.apple.com/en-us/111886){:target="_blank"} and physical books.
