@@ -36,7 +36,7 @@ Updated on: 2026-07-14
 - **Broswer:** Firefox
 
 ### Gaming PC
-- **OS:** Windows 10 Pro (22H2). I refuse to upgrade to 11 or higher with the keylogger that is Recall and AI slop all over it. I only use Windows at all because of games compatibility.
+- **OS:** Windows 10 Pro (22H2). I refuse to upgrade to 11 or higher with the keylogger that is Recall and AI slop all over it. I only use Windows at all because of game compatibility.
 - **Broswer:** Firefox
 
 ## Miscellaneous
