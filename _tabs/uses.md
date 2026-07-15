@@ -45,7 +45,7 @@ Updated on: 2026-07-14
 - **Some Interesting Apps:**
   - [Macrofactor](https://macrofactor.com/){:target="_blank"}: For calories and macro tracks.
   - [Fitbod](https://fitbod.me/){:target="_blank"}: For gym planning, since I don't know anything about exercises.
-  - [WorkOutDoors](http://workoutdoors.net/){:target="_blank"}: To track my runs.
+  - [WorkOutDoors](https://apps.apple.com/us/app/workoutdoors/id1241909999){:target="_blank"}: To track my runs.
 
 ## Home Lab
 🚧 Under construction.
